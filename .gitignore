@@ -1,0 +1,7 @@
+# Context files (contain user/host info, not secrets)
+*.ctx
+
+# macOS
+.DS_Store
+
+.ghcontext
